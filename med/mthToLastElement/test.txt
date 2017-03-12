@@ -1,0 +1,23 @@
+a b c d 4
+e f g h 2
+a b c d e f g h i j k l m n o p q r s t u v w x y z 13
+o f e x l r z g j 5
+x n p c g m z r o j f d s h v b t l a e i k u w 15
+c h e y u f d 23
+z v e p j 26
+t h s g m f e i q o n a d y r p w x l b j 15
+k n m 22
+c k i y v u m j p o w a b n f x e l r g z h d 18
+y v t w i z d f q r c m e p b a 21
+z u e n q d j y c r g o t 24
+k p o i y g x d z t v m r n b j l 15
+q m j t s c o i h f l p e u r k 13
+y s x j d q z f w h u m 19
+m p g l b f o j c i v 9
+j v a s k f n t b c r z i o m 12
+a r z t j k o 3
+l w j y c m i p a 12
+v e z h q r n i m d t b a j g k p w 25
+x h q j c m 13
+r e l d k n m c h 13
+u s q c l a o y r v p x b e t w n h f k d j z 6
