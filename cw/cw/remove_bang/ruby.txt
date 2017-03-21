@@ -1,0 +1,9 @@
+s = "Hello! World!!! "
+
+s.delete('!')
+
+s.gsub("!","")
+
+s.gsub(/!/,'')
+
+s.split("").select {|letter| letter != "!"}.join("")

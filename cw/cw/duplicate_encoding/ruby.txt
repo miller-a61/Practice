@@ -1,0 +1,9 @@
+def duplicate_encode(word)
+  word.downcase.chars.map {|x| word.downcase.count(x) > 1 ? ")" : "("}.join("")
+end
+
+def duplicate_encode(word)
+  word.downcase.chars.map do |char|
+    word.downcase.count(char) > 1 ? ')' : '('
+  end.join
+end
