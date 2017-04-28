@@ -1,0 +1,14 @@
+def shut_up
+	too_loud, $VERBOSE = $VERBOSE , nil
+	yield
+ensure
+	$VERBOSE = too_loud
+end
+
+
+shut_up do
+
+	#do stuff here
+
+end
+
