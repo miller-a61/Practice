@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\primePalindrome\primePalindrome\bin\Debug\primePalindrome.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\primePalindrome\primePalindrome\bin\Debug\primePalindrome.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\primePalindrome\primePalindrome\bin\Debug\primePalindrome.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\primePalindrome\primePalindrome\obj\Debug\primePalindrome.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\primePalindrome\primePalindrome\obj\Debug\primePalindrome.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\primePalindrome\primePalindrome\obj\Debug\primePalindrome.pdb

@@ -1,0 +1,1 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sizeOfFile\sizeOfFile\bin\Debug\sizeOfFile.exe.config

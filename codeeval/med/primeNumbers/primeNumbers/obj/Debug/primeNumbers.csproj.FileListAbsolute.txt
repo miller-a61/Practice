@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\primeNumbers\primeNumbers\bin\Debug\primeNumbers.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\primeNumbers\primeNumbers\obj\Debug\primeNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\primeNumbers\primeNumbers\obj\Debug\primeNumbers.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csprojResolveAssemblyReference.cache

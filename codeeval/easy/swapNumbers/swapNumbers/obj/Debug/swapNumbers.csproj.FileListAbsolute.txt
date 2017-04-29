@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapNumbers\swapNumbers\bin\Debug\swapNumbers.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapNumbers\swapNumbers\bin\Debug\swapNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapNumbers\swapNumbers\bin\Debug\swapNumbers.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapNumbers\swapNumbers\obj\Debug\swapNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapNumbers\swapNumbers\obj\Debug\swapNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapNumbers\swapNumbers\obj\Debug\swapNumbers.pdb

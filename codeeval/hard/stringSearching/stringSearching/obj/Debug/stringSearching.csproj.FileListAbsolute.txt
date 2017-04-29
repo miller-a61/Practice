@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSearching\stringSearching\bin\Debug\stringSearching.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSearching\stringSearching\bin\Debug\stringSearching.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSearching\stringSearching\bin\Debug\stringSearching.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSearching\stringSearching\obj\Debug\stringSearching.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSearching\stringSearching\obj\Debug\stringSearching.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSearching\stringSearching\obj\Debug\stringSearching.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\numberOfOnes\numberOfOnes\bin\Debug\numberOfOnes.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\numberOfOnes\numberOfOnes\obj\Debug\numberOfOnes.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\numberOfOnes\numberOfOnes\bin\Debug\numberOfOnes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\numberOfOnes\numberOfOnes\bin\Debug\numberOfOnes.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\numberOfOnes\numberOfOnes\obj\Debug\numberOfOnes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\numberOfOnes\numberOfOnes\obj\Debug\numberOfOnes.pdb

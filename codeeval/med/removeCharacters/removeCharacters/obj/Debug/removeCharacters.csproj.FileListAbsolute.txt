@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\removeCharacters\removeCharacters\bin\Debug\removeCharacters.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\removeCharacters\removeCharacters\obj\Debug\removeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\removeCharacters\removeCharacters\bin\Debug\removeCharacters.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\removeCharacters\removeCharacters\bin\Debug\removeCharacters.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\removeCharacters\removeCharacters\obj\Debug\removeCharacters.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\removeCharacters\removeCharacters\obj\Debug\removeCharacters.pdb

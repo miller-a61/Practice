@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\hexToDecimal\hexToDecimal\bin\Debug\hexToDecimal.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\hexToDecimal\hexToDecimal\bin\Debug\hexToDecimal.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\hexToDecimal\hexToDecimal\bin\Debug\hexToDecimal.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\hexToDecimal\hexToDecimal\obj\Debug\hexToDecimal.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\hexToDecimal\hexToDecimal\obj\Debug\hexToDecimal.pdb

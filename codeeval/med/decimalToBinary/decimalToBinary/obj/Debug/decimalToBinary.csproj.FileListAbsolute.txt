@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\decimalToBinary\decimalToBinary\bin\Debug\decimalToBinary.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\decimalToBinary\decimalToBinary\bin\Debug\decimalToBinary.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\decimalToBinary\decimalToBinary\bin\Debug\decimalToBinary.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\decimalToBinary\decimalToBinary\obj\Debug\decimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\decimalToBinary\decimalToBinary\obj\Debug\decimalToBinary.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\decimalToBinary\decimalToBinary\obj\Debug\decimalToBinary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplesOfANumber\multiplesOfANumber\bin\Debug\multiplesOfANumber.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplesOfANumber\multiplesOfANumber\bin\Debug\multiplesOfANumber.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplesOfANumber\multiplesOfANumber\bin\Debug\multiplesOfANumber.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplesOfANumber\multiplesOfANumber\obj\Debug\multiplesOfANumber.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplesOfANumber\multiplesOfANumber\obj\Debug\multiplesOfANumber.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplesOfANumber\multiplesOfANumber\obj\Debug\multiplesOfANumber.pdb

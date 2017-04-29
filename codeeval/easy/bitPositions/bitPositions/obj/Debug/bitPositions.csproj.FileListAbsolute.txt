@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\bitPositions\bitPositions\bin\Debug\bitPositions.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\bitPositions\bitPositions\bin\Debug\bitPositions.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\bitPositions\bitPositions\bin\Debug\bitPositions.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\bitPositions\bitPositions\obj\Debug\bitPositions.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\bitPositions\bitPositions\obj\Debug\bitPositions.pdb

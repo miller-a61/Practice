@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\trickOrTreat\trickOrTreat\bin\Debug\trickOrTreat.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\trickOrTreat\trickOrTreat\bin\Debug\trickOrTreat.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\trickOrTreat\trickOrTreat\bin\Debug\trickOrTreat.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\trickOrTreat\trickOrTreat\obj\Debug\trickOrTreat.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\trickOrTreat\trickOrTreat\obj\Debug\trickOrTreat.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\trickOrTreat\trickOrTreat\obj\Debug\trickOrTreat.pdb

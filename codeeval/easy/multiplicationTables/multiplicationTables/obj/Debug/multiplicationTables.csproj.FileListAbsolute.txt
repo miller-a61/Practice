@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplicationTables\multiplicationTables\bin\Debug\multiplicationTables.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplicationTables\multiplicationTables\bin\Debug\multiplicationTables.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplicationTables\multiplicationTables\bin\Debug\multiplicationTables.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplicationTables\multiplicationTables\obj\Debug\multiplicationTables.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\multiplicationTables\multiplicationTables\obj\Debug\multiplicationTables.pdb

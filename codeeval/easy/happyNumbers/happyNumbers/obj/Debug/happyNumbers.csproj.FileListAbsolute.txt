@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\happyNumbers\happyNumbers\bin\Debug\happyNumbers.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\happyNumbers\happyNumbers\bin\Debug\happyNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\happyNumbers\happyNumbers\bin\Debug\happyNumbers.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\happyNumbers\happyNumbers\obj\Debug\happyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\happyNumbers\happyNumbers\obj\Debug\happyNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\happyNumbers\happyNumbers\obj\Debug\happyNumbers.pdb

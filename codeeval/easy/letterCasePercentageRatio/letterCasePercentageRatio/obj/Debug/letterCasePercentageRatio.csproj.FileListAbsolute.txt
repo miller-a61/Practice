@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\letterCasePercentageRatio\letterCasePercentageRatio\bin\Debug\letterCasePercentageRatio.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\letterCasePercentageRatio\letterCasePercentageRatio\bin\Debug\letterCasePercentageRatio.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\letterCasePercentageRatio\letterCasePercentageRatio\bin\Debug\letterCasePercentageRatio.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\letterCasePercentageRatio\letterCasePercentageRatio\obj\Debug\letterCasePercentageRatio.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\letterCasePercentageRatio\letterCasePercentageRatio\obj\Debug\letterCasePercentageRatio.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\letterCasePercentageRatio\letterCasePercentageRatio\obj\Debug\letterCasePercentageRatio.pdb

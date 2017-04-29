@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\wordToDigit\wordToDigit\bin\Debug\wordToDigit.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\wordToDigit\wordToDigit\bin\Debug\wordToDigit.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\wordToDigit\wordToDigit\bin\Debug\wordToDigit.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\wordToDigit\wordToDigit\obj\Debug\wordToDigit.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\wordToDigit\wordToDigit\obj\Debug\wordToDigit.pdb

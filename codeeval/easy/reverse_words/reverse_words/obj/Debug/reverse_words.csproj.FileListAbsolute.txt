@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\reverse_words\reverse_words\bin\Debug\reverse_words.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\reverse_words\reverse_words\bin\Debug\reverse_words.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\reverse_words\reverse_words\bin\Debug\reverse_words.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\reverse_words\reverse_words\obj\Debug\reverse_words.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\reverse_words\reverse_words\obj\Debug\reverse_words.pdb

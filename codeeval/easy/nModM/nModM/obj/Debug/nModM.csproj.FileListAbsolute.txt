@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\nModM\nModM\bin\Debug\nModM.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\nModM\nModM\bin\Debug\nModM.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\nModM\nModM\bin\Debug\nModM.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\nModM\nModM\obj\Debug\nModM.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\nModM\nModM\obj\Debug\nModM.pdb

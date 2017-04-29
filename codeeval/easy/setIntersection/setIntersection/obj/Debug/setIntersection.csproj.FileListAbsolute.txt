@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\setIntersection\setIntersection\bin\Debug\setIntersection.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\setIntersection\setIntersection\bin\Debug\setIntersection.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\setIntersection\setIntersection\bin\Debug\setIntersection.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\setIntersection\setIntersection\obj\Debug\setIntersection.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\setIntersection\setIntersection\obj\Debug\setIntersection.pdb

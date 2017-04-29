@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\findAWriter\findAWriter\bin\Debug\findAWriter.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\findAWriter\findAWriter\bin\Debug\findAWriter.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\findAWriter\findAWriter\bin\Debug\findAWriter.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\findAWriter\findAWriter\obj\Debug\findAWriter.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\findAWriter\findAWriter\obj\Debug\findAWriter.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\findAWriter\findAWriter\obj\Debug\findAWriter.pdb

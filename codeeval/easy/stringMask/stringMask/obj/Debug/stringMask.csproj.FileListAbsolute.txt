@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\stringMask\stringMask\bin\Debug\stringMask.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\stringMask\stringMask\bin\Debug\stringMask.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\stringMask\stringMask\bin\Debug\stringMask.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\stringMask\stringMask\obj\Debug\stringMask.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\stringMask\stringMask\obj\Debug\stringMask.pdb

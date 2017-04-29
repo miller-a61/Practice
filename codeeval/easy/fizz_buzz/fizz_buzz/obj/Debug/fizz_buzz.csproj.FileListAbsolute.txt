@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\fizz_buzz\fizz_buzz\bin\Debug\fizz_buzz.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\fizz_buzz\fizz_buzz\obj\Debug\fizz_buzz.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\fizz_buzz\fizz_buzz\bin\Debug\fizz_buzz.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\fizz_buzz\fizz_buzz\bin\Debug\fizz_buzz.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\fizz_buzz\fizz_buzz\obj\Debug\fizz_buzz.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\fizz_buzz\fizz_buzz\obj\Debug\fizz_buzz.pdb

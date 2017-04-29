@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.pdb

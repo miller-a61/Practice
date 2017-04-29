@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\textDollar\textDollar\bin\Debug\textDollar.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\textDollar\textDollar\bin\Debug\textDollar.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\textDollar\textDollar\bin\Debug\textDollar.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\textDollar\textDollar\obj\Debug\textDollar.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\textDollar\textDollar\obj\Debug\textDollar.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\textDollar\textDollar\obj\Debug\textDollar.pdb

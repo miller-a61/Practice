@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\sumOfPrimes\sumOfPrimes\bin\Debug\sumOfPrimes.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\sumOfPrimes\sumOfPrimes\bin\Debug\sumOfPrimes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\sumOfPrimes\sumOfPrimes\bin\Debug\sumOfPrimes.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\sumOfPrimes\sumOfPrimes\obj\Debug\sumOfPrimes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\sumOfPrimes\sumOfPrimes\obj\Debug\sumOfPrimes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\clean_up_words\clean_up_words\bin\Debug\clean_up_words.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\clean_up_words\clean_up_words\bin\Debug\clean_up_words.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\clean_up_words\clean_up_words\bin\Debug\clean_up_words.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\clean_up_words\clean_up_words\obj\Debug\clean_up_words.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\clean_up_words\clean_up_words\obj\Debug\clean_up_words.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\clean_up_words\clean_up_words\obj\Debug\clean_up_words.pdb

@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rightmostChar\rightmostChar\bin\Debug\rightmostChar.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rightmostChar\rightmostChar\bin\Debug\rightmostChar.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rightmostChar\rightmostChar\bin\Debug\rightmostChar.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rightmostChar\rightmostChar\obj\Debug\rightmostChar.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rightmostChar\rightmostChar\obj\Debug\rightmostChar.pdb

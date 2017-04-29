@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\countPrimes\countPrimes\bin\Debug\countPrimes.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\countPrimes\countPrimes\bin\Debug\countPrimes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\countPrimes\countPrimes\bin\Debug\countPrimes.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\countPrimes\countPrimes\obj\Debug\countPrimes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\countPrimes\countPrimes\obj\Debug\countPrimes.pdb

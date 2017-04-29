@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\evenNumbers\evenNumbers\bin\Debug\evenNumbers.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\evenNumbers\evenNumbers\obj\Debug\evenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\evenNumbers\evenNumbers\bin\Debug\evenNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\evenNumbers\evenNumbers\bin\Debug\evenNumbers.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\evenNumbers\evenNumbers\obj\Debug\evenNumbers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\evenNumbers\evenNumbers\obj\Debug\evenNumbers.pdb

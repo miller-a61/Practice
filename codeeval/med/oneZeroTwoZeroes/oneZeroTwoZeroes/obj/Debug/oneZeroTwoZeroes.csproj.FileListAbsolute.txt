@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\oneZeroTwoZeroes\oneZeroTwoZeroes\bin\Debug\oneZeroTwoZeroes.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\oneZeroTwoZeroes\oneZeroTwoZeroes\bin\Debug\oneZeroTwoZeroes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\oneZeroTwoZeroes\oneZeroTwoZeroes\bin\Debug\oneZeroTwoZeroes.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\oneZeroTwoZeroes\oneZeroTwoZeroes\obj\Debug\oneZeroTwoZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\oneZeroTwoZeroes\oneZeroTwoZeroes\obj\Debug\oneZeroTwoZeroes.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\oneZeroTwoZeroes\oneZeroTwoZeroes\obj\Debug\oneZeroTwoZeroes.pdb

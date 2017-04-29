@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\lowerCase\lowerCase\bin\Debug\lowerCase.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\lowerCase\lowerCase\bin\Debug\lowerCase.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\lowerCase\lowerCase\bin\Debug\lowerCase.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\lowerCase\lowerCase\obj\Debug\lowerCase.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\lowerCase\lowerCase\obj\Debug\lowerCase.pdb

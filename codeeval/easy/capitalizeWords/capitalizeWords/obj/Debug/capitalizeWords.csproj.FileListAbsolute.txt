@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\capitalizeWords\capitalizeWords\bin\Debug\capitalizeWords.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\capitalizeWords\capitalizeWords\bin\Debug\capitalizeWords.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\capitalizeWords\capitalizeWords\bin\Debug\capitalizeWords.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\capitalizeWords\capitalizeWords\obj\Debug\capitalizeWords.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\capitalizeWords\capitalizeWords\obj\Debug\capitalizeWords.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\capitalizeWords\capitalizeWords\obj\Debug\capitalizeWords.pdb

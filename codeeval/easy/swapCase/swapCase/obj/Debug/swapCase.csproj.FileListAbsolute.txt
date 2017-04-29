@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapCase\swapCase\bin\Debug\swapCase.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapCase\swapCase\bin\Debug\swapCase.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapCase\swapCase\bin\Debug\swapCase.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapCase\swapCase\obj\Debug\swapCase.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapCase\swapCase\obj\Debug\swapCase.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\swapCase\swapCase\obj\Debug\swapCase.pdb

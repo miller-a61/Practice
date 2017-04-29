@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\calculateDistance\calculateDistance\bin\Debug\calculateDistance.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\calculateDistance\calculateDistance\bin\Debug\calculateDistance.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\calculateDistance\calculateDistance\bin\Debug\calculateDistance.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\calculateDistance\calculateDistance\obj\Debug\calculateDistance.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\calculateDistance\calculateDistance\obj\Debug\calculateDistance.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\calculateDistance\calculateDistance\obj\Debug\calculateDistance.pdb

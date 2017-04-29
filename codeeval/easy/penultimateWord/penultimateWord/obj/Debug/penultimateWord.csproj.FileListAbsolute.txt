@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\penultimateWord\penultimateWord\bin\Debug\penultimateWord.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\penultimateWord\penultimateWord\obj\Debug\penultimateWord.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\penultimateWord\penultimateWord\bin\Debug\penultimateWord.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\penultimateWord\penultimateWord\bin\Debug\penultimateWord.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\penultimateWord\penultimateWord\obj\Debug\penultimateWord.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\penultimateWord\penultimateWord\obj\Debug\penultimateWord.pdb

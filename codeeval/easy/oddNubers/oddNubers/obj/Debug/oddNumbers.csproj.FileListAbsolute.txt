@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\oddNubers\oddNubers\bin\Debug\oddNubers.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\oddNubers\oddNubers\bin\Debug\oddNubers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\oddNubers\oddNubers\bin\Debug\oddNubers.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\oddNubers\oddNubers\obj\Debug\oddNubers.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\oddNubers\oddNubers\obj\Debug\oddNubers.pdb

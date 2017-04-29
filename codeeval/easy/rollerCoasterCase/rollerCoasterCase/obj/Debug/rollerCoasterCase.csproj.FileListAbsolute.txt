@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rollerCoasterCase\rollerCoasterCase\bin\Debug\rollerCoasterCase.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rollerCoasterCase\rollerCoasterCase\bin\Debug\rollerCoasterCase.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rollerCoasterCase\rollerCoasterCase\bin\Debug\rollerCoasterCase.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rollerCoasterCase\rollerCoasterCase\obj\Debug\rollerCoasterCase.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rollerCoasterCase\rollerCoasterCase\obj\Debug\rollerCoasterCase.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\rollerCoasterCase\rollerCoasterCase\obj\Debug\rollerCoasterCase.pdb

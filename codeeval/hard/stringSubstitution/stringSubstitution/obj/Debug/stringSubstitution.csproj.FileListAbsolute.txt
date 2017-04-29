@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSubstitution\stringSubstitution\bin\Debug\stringSubstitution.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSubstitution\stringSubstitution\bin\Debug\stringSubstitution.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSubstitution\stringSubstitution\bin\Debug\stringSubstitution.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSubstitution\stringSubstitution\obj\Debug\stringSubstitution.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\hardChallenge\stringSubstitution\stringSubstitution\obj\Debug\stringSubstitution.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\longestLines\longestLines\bin\Debug\longestLines.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\longestLines\longestLines\obj\Debug\longestLines.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\longestLines\longestLines\bin\Debug\longestLines.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\longestLines\longestLines\bin\Debug\longestLines.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\longestLines\longestLines\obj\Debug\longestLines.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\longestLines\longestLines\obj\Debug\longestLines.pdb

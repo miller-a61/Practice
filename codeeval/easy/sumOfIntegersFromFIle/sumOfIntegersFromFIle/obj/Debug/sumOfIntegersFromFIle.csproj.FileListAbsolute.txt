@@ -1,0 +1,5 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfIntegersFromFIle\sumOfIntegersFromFIle\bin\Debug\sumOfIntegersFromFIle.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfIntegersFromFIle\sumOfIntegersFromFIle\bin\Debug\sumOfIntegersFromFIle.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfIntegersFromFIle\sumOfIntegersFromFIle\bin\Debug\sumOfIntegersFromFIle.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfIntegersFromFIle\sumOfIntegersFromFIle\obj\Debug\sumOfIntegersFromFIle.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\easy_challenge\sumOfIntegersFromFIle\sumOfIntegersFromFIle\obj\Debug\sumOfIntegersFromFIle.pdb

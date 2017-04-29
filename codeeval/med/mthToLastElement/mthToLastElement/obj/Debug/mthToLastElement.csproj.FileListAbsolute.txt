@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\mthToLastElement\mthToLastElement\bin\Debug\mthToLastElement.exe.config
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\mthToLastElement\mthToLastElement\bin\Debug\mthToLastElement.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\mthToLastElement\mthToLastElement\bin\Debug\mthToLastElement.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\mthToLastElement\mthToLastElement\obj\Debug\mthToLastElement.exe
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\mthToLastElement\mthToLastElement\obj\Debug\mthToLastElement.pdb
+C:\Users\Andy\Documents\GitHub\CSharp\CodeEval\mediumChallenge\mthToLastElement\mthToLastElement\obj\Debug\mthToLastElement.csprojResolveAssemblyReference.cache
