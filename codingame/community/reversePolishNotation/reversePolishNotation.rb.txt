@@ -1,0 +1,117 @@
+class String
+  def numeric?
+    Float(self) != nil rescue false
+  end
+end
+
+@n = gets.to_i
+
+inputs = gets.split(" ")
+stack = Array.new
+
+#inputs[2] = "2"
+#inputs[3] = "ROL"
+
+for i in 0..(@n-1)
+    instruction = inputs[i]
+    STDERR.puts instruction
+#=begin    
+    if instruction.numeric? 
+        stack.push(instruction.to_i)
+       #STDERR.puts "number: #{instruction}"
+    elsif instruction == "ADD" 
+            if stack.length > 1
+                stack.push (stack.pop + stack.pop)
+            else
+                STDERR.puts stack.length
+                stack.pop
+                stack.push("ERROR")
+                break
+            end
+        #STDERR.puts instruction
+    elsif instruction == "SUB" 
+            if stack.length > 1
+                x = stack.pop
+                stack.push(stack.pop - x)
+            else
+                stack.pop
+                stack.push("ERROR")
+                break
+            end
+    elsif instruction == "MUL" 
+            if stack.length > 1
+                stack.push(stack.pop * stack.pop)
+            else
+                stack.pop
+                stack.push("ERROR")
+                break
+            end
+    elsif instruction == "DIV"
+            if stack.length > 1
+                x = stack.pop
+                if x == 0 
+                    stack.pop
+                    stack.push("ERROR")
+                    break
+                else
+                    stack.push(stack.pop / x)
+                end
+            else
+                stack.pop
+                stack.push("ERROR")
+                break
+            end
+    elsif instruction == "MOD" 
+            if stack.length > 1
+                x = stack.pop
+                if x == 0 
+                    stack.pop
+                    stack.push("ERROR")
+                    break
+                else
+                    stack.push(stack.pop % x)
+                end
+            else
+                stack.pop
+                stack.push("ERROR")
+            end
+    elsif instruction == "POP" && stack.length > 0
+        stack.pop
+    elsif instruction == "DUP"
+        stack.push(stack[-1])
+    elsif instruction == "SWP" 
+        if stack.length > 1
+            x = stack.pop
+            y = stack.pop
+            stack.push(x)
+            stack.push(y)
+        else
+            stack.pop
+            stack.push("ERROR")
+        end
+    elsif instruction == "ROL"
+        if stack.length > 3
+            STDERR.puts "ROL: #{stack.join(":")}"
+            stack.pop
+            STDERR.puts "POP: #{stack.join(":")}"
+            x = stack[-3]
+            STDERR.puts "x: #{x}"
+            stack.slice!(-3)
+            STDERR.puts "DEL: #{stack.join(":")}"
+            stack.push(x)
+            STDERR.puts "PSH: #{stack.join(":")}"
+        else
+            stack.pop
+            stack.push("ERROR")
+        end
+    else stack.push("ERROR")
+        break
+    end
+#=end
+
+end
+
+puts stack.join(" ")
+
+#STDERR.puts "FINAL: #{stack.join(" ")}"
+#puts "4 1"
